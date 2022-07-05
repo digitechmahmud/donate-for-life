@@ -35,11 +35,8 @@
     border-radius: 15px;
     font-size: 20px;
     font-weight: 600;
-    margin-bottom: 50px;
 }
-.donate-today{
 
-} 
 .donate-today p{
     font-size: 25px;
     text-align: center;
@@ -50,7 +47,7 @@
 .donate-today h2{
     text-align: center;
     font-size: 50px;
-    padding-top: 20px;
+    padding-top: 100px;
     padding-bottom: 20px;
 }
 .flexible-container{
@@ -129,3 +126,79 @@
     margin-right: 360px;
     margin-bottom: 50px;
 }
+.donate-plan-header-text{
+    margin-top: 50px;
+}
+.donate-plan{
+    display: flex;
+    margin-left: 100px;
+    margin-right: 100px;
+    margin-bottom: 30px;
+}
+.donate-plan img{
+    padding: 15px;
+}
+.donate-plan h3{
+    font-size: 30px;
+    padding: 10px;
+
+}
+.donate-plan p{
+    font-size: 20px;
+    padding: 10px;
+    
+}
+#donate-plan-food{
+    margin-right: 10px;
+    width: 70%;
+    height: 350px;
+    background-color: bisque;
+    box-shadow: 10px 10px 16px rgb(221, 218, 218);
+    border-radius: 10px;
+    border-left: 5px solid blue;
+
+}
+#donate-plan-cloth {
+    margin-right: 10px;
+    width: 70%;
+    height: 350px;
+    background-color: rgb(195, 236, 113);
+    box-shadow: 10px 10px 16px rgb(221, 218, 218);
+    border-radius: 10px;
+    border-left: 5px solid tomato;
+
+}
+#donate-plan-home {
+    margin-right: 10px;
+    width: 70%;
+    height: 350px;
+    background-color: rgb(87, 190, 231);
+    box-shadow: 10px 10px 16px rgb(221, 218, 218);
+    border-radius: 10px;
+    border-left: 5px solid orange;
+
+}
+.newslatter{
+    margin-bottom: 50px;
+    height: 200px;
+    width: 70%;
+    margin: auto;
+    background-color: rgb(200, 238, 230);
+   
+}
+.newslatter input{
+    margin-left: 200px;
+    margin-top: 100px;
+    width: 360px;
+    height: 25px;
+    border: 2px solid rgb(223, 219, 219);
+    border-radius: 5px;
+}
+.sub-button{
+    background-image: linear-gradient(tomato, orange);
+    padding: 5px 40px;
+    text-decoration: none;
+    color: white;
+    font-weight: 700;
+}
+
