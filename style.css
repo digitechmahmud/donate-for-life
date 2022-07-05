@@ -35,4 +35,97 @@
     border-radius: 15px;
     font-size: 20px;
     font-weight: 600;
+    margin-bottom: 50px;
+}
+.donate-today{
+
 } 
+.donate-today p{
+    font-size: 25px;
+    text-align: center;
+    width: 50%;
+    margin-left: 320px;
+    padding-bottom: 50px;
+}
+.donate-today h2{
+    text-align: center;
+    font-size: 50px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+.flexible-container{
+    display: flex;
+    margin-left: 360px;
+    margin-bottom: 30px;
+
+}
+
+#donate1{
+    margin: 10px;
+    width: 100px;
+    height: 100px;
+    text-align: center;
+    border-radius: 5px;
+    background-color: rgb(240, 234, 234);
+
+}
+#donate2 {
+    margin: 10px;
+    width: 100px;
+    height: 100px;
+    text-align: center;
+    border-radius: 5px;
+    background-color: rgb(240, 234, 234);
+    border: 3px solid rgb(245, 81, 81);
+
+}
+#donate3 {
+    margin: 10px;
+    width: 100px;
+    height: 100px;
+    text-align: center;
+    border-radius: 5px;
+    background-color: rgb(240, 234, 234);
+
+}
+#donate4 {
+    margin: 10px;
+    width: 100px;
+    height: 100px;
+    text-align: center;
+    border-radius: 5px;
+    background-color: rgb(240, 234, 234);
+
+}
+#donate5 {
+    margin: 10px;
+    width: 100px;
+    height: 100px;
+    text-align: center;
+    border-radius: 5px;
+    background-color: rgb(240, 234, 234);
+
+}
+.donate-amount{
+    font-size: 25px;
+    font-weight: 800;
+    padding-top: 35px;
+}
+.donate-amount-select {
+    font-size: 25px;
+    font-weight: 800;
+    padding-top: 35px;
+    color: rgb(245, 81, 81);
+}
+.input-field{
+    width: 600px;
+    height: 30px;
+    margin-left: 360px;
+    margin-bottom: 10px;
+    border: none;
+}
+.input-border{
+    margin-left: 360px;
+    margin-right: 360px;
+    margin-bottom: 50px;
+}
