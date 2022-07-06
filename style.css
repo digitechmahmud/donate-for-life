@@ -2,6 +2,9 @@
     padding: 0;
     margin: 0;
 }
+body{
+    font-family: 'Quicksand', sans-serif;
+}
 .top-section{
     background-image: url(images/donation-banner.png);
     background-repeat: no-repeat;
