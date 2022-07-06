@@ -10,9 +10,12 @@ body{
     background-repeat: no-repeat;
     width: 100%;
     height: 600px;
+    justify-content: center;
+    
 }
 .banner-section{
     color: white;
+
 }
 .banner-section h1{
     font-size: 80px;
@@ -31,7 +34,7 @@ body{
 }
 .donate-button{
     text-decoration: none;
-    margin-left: 600px;
+    margin-left: 550px;
     background-image: linear-gradient(orange, tomato);
     padding: 15px 40px;
     color: white;
@@ -187,7 +190,7 @@ body{
     margin: auto;
     background-color: rgb(200, 238, 230);
     border-radius: 5px;
-    border: 1px solid gray;
+    border: 1px solid rgb(197, 193, 193);
    
 }
 .newslatter input{
@@ -196,14 +199,21 @@ body{
     width: 360px;
     height: 25px;
     border: 2px solid rgb(223, 219, 219);
-    border-radius: 5px;
+
 }
 .sub-button{
     background-image: linear-gradient(tomato, orange);
-    padding: 5px 40px;
+    padding: 8px 40px;
     text-decoration: none;
     color: white;
     font-weight: 700;
+    margin-left: -2px;
+    margin-top: 2px;
+    border-radius: 2px;
+}
+.input-field{
+    padding-top: 5px;
+    padding-bottom: 2px;
 }
 .footer{
     margin-top: 100px;
@@ -222,5 +232,103 @@ body{
     font-size: 15px;
     font-weight: 200;
     padding: 10px;
+}
+.join-us-title{
+    text-align: center;
+    margin-top: 100px;
+    margin-bottom: 50px;
+}
+.join-us-title h2 {
+    font-size: 50px;
+    font-weight: 800;
+    color: tomato;
+    padding-top: 20px;
+
+}
+.join-us-title h3{
+    font-size: 25px;
+    font-weight: 800;
+    color: blue;
+}
+.join-us{
+    display: flex;
+    width: 100%;
+    margin-left: 50px;
+}
+.half-width{
+    width: 50%;
+    margin-top: 20px;
+}
+.join-us-video img{
+    width: 65%;
+}
+#donation{
+    margin-top: 10px;
+    margin-left: 50px;
+    margin-bottom: 50px;
+    display: flex;
+    box-shadow: 7px 7px 14px gray ;
+    width: 50%;
+    border-radius: 10px;
+    background-color: tomato;
+    color: white;
+    padding-left: 10px;
+
+}
+#donation h2{
+    margin-top: 10px;
+    margin-left: 20px;
+    font-size: 30px;
+    font-weight: 700;
+    padding-bottom: 5px;
+    
+}
+#volunteer {
+    margin-top: 10px;
+    margin-left: 50px;
+    display: flex;
+    box-shadow: 7px 7px 14px gray;
+    width: 50%;
+    border-radius: 10px;
+    background-color: tomato;
+    color: white;
+    padding-left: 10px;
+
+}
+#volunteer h2 {
+    margin-top: 10px;
+    margin-left: 10px;
+    font-size: 30px;
+    font-weight: 700;
+    padding-bottom: 5px;
+
+}
+#volunteer img{
+    width: 15%;
+}
+
+#sponsorship {
+    margin-top: 50px;
+    margin-left: 50px;
+    display: flex;
+    box-shadow: 7px 7px 14px gray;
+    width: 50%;
+    border-radius: 10px;
+    background-color: tomato;
+    color: white;
+    padding-left: 10px;
+
+}
+
+#sponsorship h2 {
+    margin-top: 10px;
+    margin-left: 10px;
+    font-size: 30px;
+    font-weight: 700;
+    padding-bottom: 5px;
+
+}
+#sponsorship img {
+    width: 15%;
 }
 
