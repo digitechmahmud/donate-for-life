@@ -124,7 +124,7 @@ body{
     padding-top: 35px;
     color: rgb(245, 81, 81);
 }
-.input-field{
+.input-other-ammount{
     width: 600px;
     height: 30px;
     margin-left: 360px;
@@ -188,44 +188,47 @@ body{
     border-left: 5px solid orange;
 
 }
-.newslatter{
+
+.newslatter {
+    width: 80%;
     height: 200px;
-    width: 70%;
-    margin: auto;
+    margin-left: 100px;
     background-color: rgb(200, 238, 230);
     border-radius: 5px;
     border: 1px solid rgb(197, 193, 193);
-   
-}
-.newslatter input{
-    margin-left: 200px;
-    margin-top: 100px;
-    width: 360px;
-    height: 25px;
-    border: 2px solid rgb(223, 219, 219);
+    
 
 }
-.sub-button{
+
+.input-form{
+    margin-top: 80px;
+    padding-left: 170px;
+
+}
+
+.input-field {
+    padding: 10px 100px;
+    margin-left: 160px;
+
+
+}
+
+.sub-button {
     background-image: linear-gradient(tomato, orange);
-    padding: 8px 40px;
-    text-decoration: none;
-    color: white;
-    font-weight: 700;
-    margin-left: -2px;
-    margin-top: 2px;
-    border-radius: 2px;
+    border: none;
+    padding: 12px 30px;
+    margin-left: -5px;
+    border-radius: 5px;
+
 }
-.input-field{
-    padding-top: 5px;
-    padding-bottom: 2px;
-}
+
 .footer{
     margin-top: 100px;
     background-color: black;
 }
 .footer h1{
     text-align: center;
-    color: white;
+    color: tomato;
     font-size: 30px;
     font-weight: 800;
     padding: 10px;
