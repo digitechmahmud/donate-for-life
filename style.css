@@ -4,8 +4,11 @@
 }
 body{
     font-family: 'Quicksand', sans-serif;
-    
+
 }
+
+/*-----------Start Heading Section------------*/
+
 .top-section{
     background-image: url(images/donation-banner.png);
     background-repeat: no-repeat;
@@ -43,9 +46,8 @@ body{
     font-size: 20px;
     font-weight: 600;
 }
-.donate-today-section{
-    margin-top: -20px;
-}
+
+/*-----------Start Donate Today Section------------*/
 
 .donate-today p{
     font-size: 25px;
@@ -135,6 +137,11 @@ body{
     margin-left: 360px;
     margin-right: 360px;
     margin-bottom: 50px;
+}
+
+/*-----------Start Donate Today Section------------*/
+.donate-plan-section {
+    margin-top: -20px;
 }
 .donate-plan-header-text{
     margin-top: 50px;
