@@ -4,6 +4,7 @@
 }
 body{
     font-family: 'Quicksand', sans-serif;
+    
 }
 .top-section{
     background-image: url(images/donation-banner.png);
@@ -249,9 +250,9 @@ body{
 
 }
 .join-us-title h3{
-    font-size: 25px;
+    font-size: 30px;
     font-weight: 800;
-    color: blue;
+    color: rgb(83, 3, 14);
 }
 .join-us{
     display: flex;
