@@ -140,6 +140,7 @@ body{
 }
 
 /*-----------Start Donate Today Section------------*/
+
 .donate-plan-section {
     margin-top: -20px;
 }
@@ -195,6 +196,7 @@ body{
     border-left: 5px solid orange;
 
 }
+/*-----------Start Newslatter Section------------*/
 
 .newslatter {
     width: 80%;
@@ -229,24 +231,10 @@ body{
 
 }
 
-.footer{
-    margin-top: 100px;
-    background-color: black;
-}
-.footer h1{
-    text-align: center;
-    color: tomato;
-    font-size: 30px;
-    font-weight: 800;
-    padding: 10px;
-}
-.footer p {
-    text-align: center;
-    color: white;
-    font-size: 15px;
-    font-weight: 200;
-    padding: 10px;
-}
+
+
+/*-----------Start How to Join Us Video Section------------*/
+
 .join-us-title{
     text-align: center;
     margin-top: 100px;
@@ -346,3 +334,30 @@ body{
     width: 15%;
 }
 
+
+/*-----------Start Footer Section------------*/
+
+.footer {
+    margin-top: 100px;
+    background-color: black;
+}
+
+.footer h1 {
+    text-align: center;
+    color: tomato;
+    font-size: 30px;
+    font-weight: 800;
+    padding: 10px;
+}
+
+.footer p {
+    text-align: center;
+    color: white;
+    font-size: 15px;
+    font-weight: 200;
+    padding: 10px;
+}
+
+
+
+/*-------------------------------End----------------------------------*/
